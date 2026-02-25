@@ -6,28 +6,27 @@ I am a result-oriented Data Analyst with a background in **Automotive (Digiteq/V
 ---
 
 ### 📈 Professional Impact
-- [cite_start]**Cost Optimization:** Identified **12% savings** opportunities in procurement through deep trend analysis.
-- [cite_start]**Product Growth:** Managed **A/B testing** and retention analysis to improve app conversion rates[cite: 26, 27].
-- [cite_start]**Automation:** Replaced manual reporting with automated **Python & SQL** workflows, tracking KPIs like GMV and Cancel Rate[cite: 25, 26].
+- **Cost Optimization:** Identified **12% savings** opportunities in procurement through deep trend analysis.
+- **Product Growth:** Managed **A/B testing** and retention analysis to improve app conversion rates.
+- **Automation:** Replaced manual reporting with automated **Python & SQL** workflows, tracking KPIs like GMV and Cancel Rate.
 
 ---
 
 ### 🛠 Tech Stack
-- [cite_start]**Languages:** Python (Pandas, Matplotlib, SciPy), SQL (PostgreSQL) 
-- [cite_start]**BI Tools:** Power BI, Tableau, Yandex DataLens [cite: 31]
-- [cite_start]**Methods:** A/B Testing, Cohort Analysis, Statistical Modeling, Unit Economics 
-- [cite_start]**Tools:** Advanced Excel, Jupyter Notebook, Git [cite: 33]
+- **Languages:** Python (Pandas, Matplotlib, SciPy), SQL (PostgreSQL) 
+- **BI Tools:** Power BI, Tableau, Yandex DataLens
+- **Methods:** A/B Testing, Cohort Analysis, Statistical Modeling, Unit Economics 
+- **Tools:** Advanced Excel, Jupyter Notebook, Git
 
 ---
 
 ### 📁 Featured Projects
-* **[Spotify Insights]** — Personal data exploration project (currently in my repo).
-* [cite_start]**Automotive Procurement Tracker** — (Conceptual/Sample) KPI tracking for 100+ suppliers[cite: 20].
-* [cite_start]**E-commerce Dashboard** — (Conceptual/Sample) Monitoring GMV and Retention metrics[cite: 26].
+* **Automotive Procurement Tracker** — (Conceptual/Sample) KPI tracking for 100+ suppliers.
+* **E-commerce Dashboard** — (Conceptual/Sample) Monitoring GMV and Retention metrics.
 
 ---
 
 ### 📫 Let's Connect
-- [cite_start]📍 **Prague, Czech Republic** [cite: 3, 11]
-- [cite_start]📧 **dsalibaev@gmail.com** 
-- [cite_start]💬 Languages: **English, Czech** [cite: 34]
+- 📍 **Prague, Czech Republic**
+- 📧 **dsalibaev@gmail.com** 
+- 💬 Languages: **English, Czech**
